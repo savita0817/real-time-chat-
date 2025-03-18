@@ -35,4 +35,6 @@ MENTOR : NEELA SANTOSH
 4. Users see new messages appended to the chat window in real-time.
 
    *OUTPUT*
+   ![Image](https://github.com/user-attachments/assets/ed107f2f-3274-4937-93d4-876444d3eafc)
+![Image](https://github.com/user-attachments/assets/e3029796-7bf7-4ee8-9ea6-f84de955247b)
    
